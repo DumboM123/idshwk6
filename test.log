@@ -1,0 +1,947 @@
+C:\Users\hp>Date
+当前日期: 2022/05/19 周四
+输入新日期: (年月日)
+
+C:\Users\hp>Time
+当前时间:  1:06:42.57
+输入新时间:
+
+C:\Users\hp>systeminfo
+
+主机名:           LAPTOP-I81UN60C
+OS 名称:          Microsoft Windows 10 家庭中文版
+OS 版本:          10.0.19044 暂缺 Build 19044
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构建类型:      Multiprocessor Free
+注册的所有人:     hp
+注册的组织:       HP
+产品 ID:          00342-35443-39952-AAOEM
+初始安装日期:     2021/3/20, 17:18:33
+系统启动时间:     2022/5/18, 11:13:57
+系统制造商:       HP
+系统型号:         HP Pavilion Gaming Laptop 15-dk0xxx
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2592 Mhz
+BIOS 版本:        Insyde F.04, 2019/5/3
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     8,041 MB
+可用的物理内存:   1,593 MB
+虚拟内存: 最大值: 15,348 MB
+虚拟内存: 可用:   5,107 MB
+虚拟内存: 使用中: 10,241 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\LAPTOP-I81UN60C
+修补程序:         安装了 13 个修补程序。
+                  [01]: KB5013624
+                  [02]: KB4562830
+                  [03]: KB4577586
+                  [04]: KB4580325
+                  [05]: KB5003791
+                  [06]: KB5008575
+                  [07]: KB5013942
+                  [08]: KB5006753
+                  [09]: KB5007273
+                  [10]: KB5011352
+                  [11]: KB5011651
+                  [12]: KB5014032
+                  [13]: KB5005699
+网卡:             安装了 21 个 NIC。
+                  [01]: Sangfor SSL VPN CS Support System VNIC
+                      连接名:      以太网 2
+                      状态:        媒体连接已中断
+                  [02]: Netease UU TAP-Win32 Adapter V9.21
+                      连接名:      以太网 3
+                      状态:        媒体连接已中断
+                  [03]: Intel(R) Wireless-AC 9560 160MHz
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.208.64.1
+                      IP 地址
+                        [01]: 10.208.64.127
+                        [02]: fe80::886e:b017:bcaf:4f9c
+                        [03]: 2001:da8:1002:a001::6:ffa6
+                  [04]: Realtek Gaming GbE Family Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [05]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.244.254
+                      IP 地址
+                        [01]: 192.168.244.1
+                        [02]: fe80::509e:1902:6d3:56d5
+                  [06]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.229.254
+                      IP 地址
+                        [01]: 192.168.229.1
+                        [02]: fe80::20d4:a865:d5c4:261d
+                  [07]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      以太网 4
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.56.1
+                        [02]: fe80::94b2:2a5b:e235:d8c6
+                  [08]: SVN Adapter V1.0
+                      连接名:      以太网 5
+                      状态:        媒体连接已中断
+                  [09]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #4
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.68.2
+                        [02]: fe80::f1e0:6eb3:4e3c:60ee
+                  [10]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #2
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.92.2
+                        [02]: fe80::b5ef:a39a:4541:32d6
+                  [11]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #3
+                      状态:        没有硬件
+                  [12]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #5
+                      状态:        没有硬件
+                  [13]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #6
+                      状态:        没有硬件
+                  [14]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #7
+                      状态:        没有硬件
+                  [15]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #8
+                      状态:        没有硬件
+                  [16]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #9
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.232.2
+                        [02]: fe80::8cc1:caf4:4b70:345
+                  [17]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #10
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.110.2
+                        [02]: fe80::e984:1a9a:bce6:ae71
+                  [18]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #11
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.221.2
+                        [02]: fe80::c1da:f706:5cd0:c429
+                  [19]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #12
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.238.2
+                        [02]: fe80::b0df:3ea4:130a:e018
+                  [20]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #13
+                      状态:        没有硬件
+                  [21]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network #14
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.241.2
+                        [02]: fe80::4cb5:2f73:8411:4cf
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
+
+C:\Users\hp>ipconfig/all
+
+Windows IP 配置
+
+   主机名  . . . . . . . . . . . . . : LAPTOP-I81UN60C
+   主 DNS 后缀 . . . . . . . . . . . :
+   节点类型  . . . . . . . . . . . . : 混合
+   IP 路由已启用 . . . . . . . . . . : 否
+   WINS 代理已启用 . . . . . . . . . : 否
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Realtek Gaming GbE Family Controller
+   物理地址. . . . . . . . . . . . . : 9C-7B-EF-1A-DD-E2
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 以太网 4:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-08
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::94b2:2a5b:e235:d8c6%8(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.56.1(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 520749095
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 以太网 5:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : SVN Adapter V1.0
+   物理地址. . . . . . . . . . . . . : 00-FF-38-7B-DE-FF
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 VirtualBox Host-Only Network #4:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #4
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-20
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::f1e0:6eb3:4e3c:60ee%32(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.68.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 873070631
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network #2:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #2
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-21
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::b5ef:a39a:4541:32d6%33(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.92.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 990511143
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network #9:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #9
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-0A
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::8cc1:caf4:4b70:345%10(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.232.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 1477050407
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network #10:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #10
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-11
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::e984:1a9a:bce6:ae71%17(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.110.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 1560936487
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network #11:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #11
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-07
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::c1da:f706:5cd0:c429%7(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.221.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 1644822567
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network #12:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #12
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-06
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::b0df:3ea4:130a:e018%6(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.238.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 1728708647
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network #14:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #14
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-02
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::4cb5:2f73:8411:4cf%2(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.241.2(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 1896480807
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+无线局域网适配器 本地连接* 1:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   物理地址. . . . . . . . . . . . . : 3C-F0-11-17-6E-4E
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 本地连接* 10:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   物理地址. . . . . . . . . . . . . : 3E-F0-11-17-6E-4D
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 VMware Network Adapter VMnet1:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   物理地址. . . . . . . . . . . . . : 00-50-56-C0-00-01
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::509e:1902:6d3:56d5%4(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.244.1(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   获得租约的时间  . . . . . . . . . : 2022年5月19日 0:59:37
+   租约过期的时间  . . . . . . . . . : 2022年5月19日 1:29:36
+   默认网关. . . . . . . . . . . . . :
+   DHCP 服务器 . . . . . . . . . . . : 192.168.244.254
+   DHCPv6 IAID . . . . . . . . . . . : 117461078
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 以太网 3:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Netease UU TAP-Win32 Adapter V9.21
+   物理地址. . . . . . . . . . . . . : 00-FF-B9-37-EF-C9
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 VMware Network Adapter VMnet8:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   物理地址. . . . . . . . . . . . . : 00-50-56-C0-00-08
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::20d4:a865:d5c4:261d%38(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.229.1(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   获得租约的时间  . . . . . . . . . : 2022年5月19日 0:59:40
+   租约过期的时间  . . . . . . . . . : 2022年5月19日 1:29:37
+   默认网关. . . . . . . . . . . . . :
+   DHCP 服务器 . . . . . . . . . . . : 192.168.229.254
+   DHCPv6 IAID . . . . . . . . . . . : 369119318
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   主 WINS 服务器  . . . . . . . . . : 192.168.229.2
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9560 160MHz
+   物理地址. . . . . . . . . . . . . : 3C-F0-11-17-6E-4D
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   IPv6 地址 . . . . . . . . . . . . : 2001:da8:1002:a001::6:ffa6(首选)
+   获得租约的时间  . . . . . . . . . : 2022年5月19日 0:59:38
+   租约过期的时间  . . . . . . . . . : 2022年5月19日 1:38:38
+   本地链接 IPv6 地址. . . . . . . . : fe80::886e:b017:bcaf:4f9c%23(首选)
+   IPv4 地址 . . . . . . . . . . . . : 10.208.64.127(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.192.0
+   获得租约的时间  . . . . . . . . . : 2022年5月18日 11:38:07
+   租约过期的时间  . . . . . . . . . : 2022年5月19日 12:59:39
+   默认网关. . . . . . . . . . . . . : fe80::200:5eff:fe00:101%23
+                                       10.208.64.1
+   DHCP 服务器 . . . . . . . . . . . : 10.208.64.1
+   DHCPv6 IAID . . . . . . . . . . . : 104656913
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-7A-B9-35-9C-7B-EF-1A-DD-E2
+   DNS 服务器  . . . . . . . . . . . : 10.80.128.28
+                                       10.81.254.4
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 以太网 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Sangfor SSL VPN CS Support System VNIC
+   物理地址. . . . . . . . . . . . . : 00-FF-12-8F-4A-A9
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+C:\Users\hp>route print
+===========================================================================
+接口列表
+ 28...9c 7b ef 1a dd e2 ......Realtek Gaming GbE Family Controller
+  8...0a 00 27 00 00 08 ......VirtualBox Host-Only Ethernet Adapter
+ 12...00 ff 38 7b de ff ......SVN Adapter V1.0
+ 32...0a 00 27 00 00 20 ......VirtualBox Host-Only Ethernet Adapter #4
+ 33...0a 00 27 00 00 21 ......VirtualBox Host-Only Ethernet Adapter #2
+ 10...0a 00 27 00 00 0a ......VirtualBox Host-Only Ethernet Adapter #9
+ 17...0a 00 27 00 00 11 ......VirtualBox Host-Only Ethernet Adapter #10
+  7...0a 00 27 00 00 07 ......VirtualBox Host-Only Ethernet Adapter #11
+  6...0a 00 27 00 00 06 ......VirtualBox Host-Only Ethernet Adapter #12
+  2...0a 00 27 00 00 02 ......VirtualBox Host-Only Ethernet Adapter #14
+ 15...3c f0 11 17 6e 4e ......Microsoft Wi-Fi Direct Virtual Adapter
+ 31...3e f0 11 17 6e 4d ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  4...00 50 56 c0 00 01 ......VMware Virtual Ethernet Adapter for VMnet1
+ 27...00 ff b9 37 ef c9 ......Netease UU TAP-Win32 Adapter V9.21
+ 38...00 50 56 c0 00 08 ......VMware Virtual Ethernet Adapter for VMnet8
+ 23...3c f0 11 17 6e 4d ......Intel(R) Wireless-AC 9560 160MHz
+  5...00 ff 12 8f 4a a9 ......Sangfor SSL VPN CS Support System VNIC
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 路由表
+===========================================================================
+活动路由:
+网络目标        网络掩码          网关       接口   跃点数
+          0.0.0.0          0.0.0.0      10.208.64.1    10.208.64.127     35
+      10.208.64.0    255.255.192.0            在链路上     10.208.64.127    291
+    10.208.64.127  255.255.255.255            在链路上     10.208.64.127    291
+   10.208.127.255  255.255.255.255            在链路上     10.208.64.127    291
+        127.0.0.0        255.0.0.0            在链路上         127.0.0.1    331
+        127.0.0.1  255.255.255.255            在链路上         127.0.0.1    331
+  127.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+     192.168.56.0    255.255.255.0            在链路上      192.168.56.1    281
+     192.168.56.1  255.255.255.255            在链路上      192.168.56.1    281
+   192.168.56.255  255.255.255.255            在链路上      192.168.56.1    281
+     192.168.68.0    255.255.255.0            在链路上      192.168.68.2    281
+     192.168.68.2  255.255.255.255            在链路上      192.168.68.2    281
+   192.168.68.255  255.255.255.255            在链路上      192.168.68.2    281
+     192.168.92.0    255.255.255.0            在链路上      192.168.92.2    281
+     192.168.92.2  255.255.255.255            在链路上      192.168.92.2    281
+   192.168.92.255  255.255.255.255            在链路上      192.168.92.2    281
+    192.168.110.0    255.255.255.0            在链路上     192.168.110.2    281
+    192.168.110.2  255.255.255.255            在链路上     192.168.110.2    281
+  192.168.110.255  255.255.255.255            在链路上     192.168.110.2    281
+    192.168.221.0    255.255.255.0            在链路上     192.168.221.2    281
+    192.168.221.2  255.255.255.255            在链路上     192.168.221.2    281
+  192.168.221.255  255.255.255.255            在链路上     192.168.221.2    281
+    192.168.229.0    255.255.255.0            在链路上     192.168.229.1    291
+    192.168.229.1  255.255.255.255            在链路上     192.168.229.1    291
+  192.168.229.255  255.255.255.255            在链路上     192.168.229.1    291
+    192.168.232.0    255.255.255.0            在链路上     192.168.232.2    281
+    192.168.232.2  255.255.255.255            在链路上     192.168.232.2    281
+  192.168.232.255  255.255.255.255            在链路上     192.168.232.2    281
+    192.168.238.0    255.255.255.0            在链路上     192.168.238.2    281
+    192.168.238.2  255.255.255.255            在链路上     192.168.238.2    281
+  192.168.238.255  255.255.255.255            在链路上     192.168.238.2    281
+    192.168.241.0    255.255.255.0            在链路上     192.168.241.2    281
+    192.168.241.2  255.255.255.255            在链路上     192.168.241.2    281
+  192.168.241.255  255.255.255.255            在链路上     192.168.241.2    281
+    192.168.244.0    255.255.255.0            在链路上     192.168.244.1    291
+    192.168.244.1  255.255.255.255            在链路上     192.168.244.1    291
+  192.168.244.255  255.255.255.255            在链路上     192.168.244.1    291
+   202.119.23.198  255.255.255.255      10.208.64.1    10.208.64.127    252
+        224.0.0.0        240.0.0.0            在链路上         127.0.0.1    331
+        224.0.0.0        240.0.0.0            在链路上      192.168.56.1    281
+        224.0.0.0        240.0.0.0            在链路上      192.168.68.2    281
+        224.0.0.0        240.0.0.0            在链路上      192.168.92.2    281
+        224.0.0.0        240.0.0.0            在链路上     192.168.232.2    281
+        224.0.0.0        240.0.0.0            在链路上     192.168.110.2    281
+        224.0.0.0        240.0.0.0            在链路上     192.168.221.2    281
+        224.0.0.0        240.0.0.0            在链路上     192.168.238.2    281
+        224.0.0.0        240.0.0.0            在链路上     192.168.241.2    281
+        224.0.0.0        240.0.0.0            在链路上     10.208.64.127    291
+        224.0.0.0        240.0.0.0            在链路上     192.168.229.1    291
+        224.0.0.0        240.0.0.0            在链路上     192.168.244.1    291
+  255.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+  255.255.255.255  255.255.255.255            在链路上      192.168.56.1    281
+  255.255.255.255  255.255.255.255            在链路上      192.168.68.2    281
+  255.255.255.255  255.255.255.255            在链路上      192.168.92.2    281
+  255.255.255.255  255.255.255.255            在链路上     192.168.232.2    281
+  255.255.255.255  255.255.255.255            在链路上     192.168.110.2    281
+  255.255.255.255  255.255.255.255            在链路上     192.168.221.2    281
+  255.255.255.255  255.255.255.255            在链路上     192.168.238.2    281
+  255.255.255.255  255.255.255.255            在链路上     192.168.241.2    281
+  255.255.255.255  255.255.255.255            在链路上     10.208.64.127    291
+  255.255.255.255  255.255.255.255            在链路上     192.168.229.1    291
+  255.255.255.255  255.255.255.255            在链路上     192.168.244.1    291
+===========================================================================
+永久路由:
+  无
+
+IPv6 路由表
+===========================================================================
+活动路由:
+ 接口跃点数网络目标                网关
+ 23    291 ::/0                     fe80::200:5eff:fe00:101
+  1    331 ::1/128                  在链路上
+ 23    291 2001:da8:1002:a001::6:ffa6/128
+                                    在链路上
+  8    281 fe80::/64                在链路上
+ 32    281 fe80::/64                在链路上
+ 33    281 fe80::/64                在链路上
+ 10    281 fe80::/64                在链路上
+ 17    281 fe80::/64                在链路上
+  7    281 fe80::/64                在链路上
+  6    281 fe80::/64                在链路上
+  2    281 fe80::/64                在链路上
+ 23    291 fe80::/64                在链路上
+ 38    291 fe80::/64                在链路上
+  4    291 fe80::/64                在链路上
+ 38    291 fe80::20d4:a865:d5c4:261d/128
+                                    在链路上
+  2    281 fe80::4cb5:2f73:8411:4cf/128
+                                    在链路上
+  4    291 fe80::509e:1902:6d3:56d5/128
+                                    在链路上
+ 23    291 fe80::886e:b017:bcaf:4f9c/128
+                                    在链路上
+ 10    281 fe80::8cc1:caf4:4b70:345/128
+                                    在链路上
+  8    281 fe80::94b2:2a5b:e235:d8c6/128
+                                    在链路上
+  6    281 fe80::b0df:3ea4:130a:e018/128
+                                    在链路上
+ 33    281 fe80::b5ef:a39a:4541:32d6/128
+                                    在链路上
+  7    281 fe80::c1da:f706:5cd0:c429/128
+                                    在链路上
+ 17    281 fe80::e984:1a9a:bce6:ae71/128
+                                    在链路上
+ 32    281 fe80::f1e0:6eb3:4e3c:60ee/128
+                                    在链路上
+  1    331 ff00::/8                 在链路上
+  8    281 ff00::/8                 在链路上
+ 32    281 ff00::/8                 在链路上
+ 33    281 ff00::/8                 在链路上
+ 10    281 ff00::/8                 在链路上
+ 17    281 ff00::/8                 在链路上
+  7    281 ff00::/8                 在链路上
+  6    281 ff00::/8                 在链路上
+  2    281 ff00::/8                 在链路上
+ 23    291 ff00::/8                 在链路上
+ 38    291 ff00::/8                 在链路上
+  4    291 ff00::/8                 在链路上
+===========================================================================
+永久路由:
+  无
+
+C:\Users\hp>arp -a
+
+接口: 192.168.241.2 --- 0x2
+  Internet 地址         物理地址              类型
+  192.168.241.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 192.168.244.1 --- 0x4
+  Internet 地址         物理地址              类型
+  192.168.244.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+接口: 192.168.238.2 --- 0x6
+  Internet 地址         物理地址              类型
+  192.168.238.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 192.168.221.2 --- 0x7
+  Internet 地址         物理地址              类型
+  192.168.221.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 192.168.56.1 --- 0x8
+  Internet 地址         物理地址              类型
+  192.168.56.255        ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+接口: 192.168.232.2 --- 0xa
+  Internet 地址         物理地址              类型
+  192.168.232.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 192.168.110.2 --- 0x11
+  Internet 地址         物理地址              类型
+  192.168.110.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 10.208.64.127 --- 0x17
+  Internet 地址         物理地址              类型
+  10.208.64.1           00-00-5e-00-01-01     动态
+  10.208.107.70         00-00-5e-00-01-01     动态
+  10.208.127.255        ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+接口: 192.168.68.2 --- 0x20
+  Internet 地址         物理地址              类型
+  192.168.68.255        ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 192.168.92.2 --- 0x21
+  Internet 地址         物理地址              类型
+  192.168.92.255        ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+接口: 192.168.229.1 --- 0x26
+  Internet 地址         物理地址              类型
+  192.168.229.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.2             01-00-5e-00-00-02     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+C:\Users\hp>tasklist
+
+映像名称                       PID 会话名              会话#       内存使用
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      2,468 K
+Registry                       148 Services                   0     26,420 K
+smss.exe                       548 Services                   0        132 K
+csrss.exe                      848 Services                   0      1,388 K
+wininit.exe                    948 Services                   0         暂缺
+csrss.exe                      956 Console                    1      2,528 K
+services.exe                  1020 Services                   0      5,844 K
+lsass.exe                      576 Services                   0     15,880 K
+winlogon.exe                  1044 Console                    1      4,176 K
+svchost.exe                   1148 Services                   0     20,420 K
+fontdrvhost.exe               1184 Services                   0         60 K
+fontdrvhost.exe               1192 Console                    1     19,264 K
+WUDFHost.exe                  1228 Services                   0      5,552 K
+svchost.exe                   1320 Services                   0     13,104 K
+svchost.exe                   1380 Services                   0      4,428 K
+dwm.exe                       1468 Console                    1     86,440 K
+svchost.exe                   1564 Services                   0      3,920 K
+WUDFHost.exe                  1704 Services                   0      1,452 K
+svchost.exe                   1724 Services                   0      8,252 K
+svchost.exe                   1780 Services                   0      4,068 K
+svchost.exe                   1788 Services                   0      4,200 K
+IntelCpHDCPSvc.exe            1916 Services                   0        736 K
+svchost.exe                   1928 Services                   0      1,252 K
+svchost.exe                   1944 Services                   0      4,960 K
+svchost.exe                   1988 Services                   0      1,644 K
+svchost.exe                   1996 Services                   0      1,768 K
+svchost.exe                   1064 Services                   0      9,852 K
+IntelCpHeciSvc.exe            2148 Services                   0      1,272 K
+svchost.exe                   2460 Services                   0      1,532 K
+svchost.exe                   2568 Services                   0      5,872 K
+svchost.exe                   2620 Services                   0      4,236 K
+svchost.exe                   2684 Services                   0      1,208 K
+svchost.exe                   2768 Services                   0     14,392 K
+svchost.exe                   2800 Services                   0     13,796 K
+SysInfoCap.exe                2808 Services                   0     13,960 K
+NetworkCap.exe                2816 Services                   0      3,140 K
+DiagsCap.exe                  2820 Services                   0      2,904 K
+AppHelperCap.exe              2832 Services                   0      6,340 K
+OmenCap.exe                   2840 Services                   0      2,044 K
+svchost.exe                   2956 Services                   0      2,508 K
+TouchpointAnalyticsClient     3008 Services                   0     23,516 K
+svchost.exe                   3068 Services                   0      8,388 K
+svchost.exe                   2700 Services                   0      2,800 K
+svchost.exe                   3176 Services                   0      6,120 K
+svchost.exe                   3292 Services                   0      3,916 K
+unsecapp.exe                  3484 Services                   0      2,124 K
+WmiPrvSE.exe                  3604 Services                   0      3,936 K
+NVDisplay.Container.exe       3684 Services                   0      6,612 K
+QQPCRTP.exe                   3816 Services                   0     66,584 K
+qmbsrv.exe                    3820 Services                   0         96 K
+NVDisplay.Container.exe       3856 Console                    1     19,152 K
+svchost.exe                   4056 Services                   0      5,360 K
+svchost.exe                   4064 Services                   0      1,152 K
+svchost.exe                   4072 Services                   0      4,424 K
+igfxCUIService.exe            3784 Services                   0      2,152 K
+Memory Compression            3912 Services                   0    290,700 K
+svchost.exe                   4132 Services                   0      2,164 K
+svchost.exe                   4140 Services                   0      4,532 K
+svchost.exe                   4416 Services                   0      7,256 K
+svchost.exe                   4608 Services                   0      2,676 K
+svchost.exe                   4616 Services                   0      4,692 K
+svchost.exe                   4736 Services                   0     16,668 K
+svchost.exe                   4776 Services                   0      9,328 K
+svchost.exe                   4860 Services                   0      2,076 K
+spoolsv.exe                   4980 Services                   0      1,820 K
+svchost.exe                   4792 Services                   0     18,548 K
+svchost.exe                   3968 Services                   0     19,108 K
+FlashHelperService.exe        3796 Services                   0     19,592 K
+Everything.exe                4996 Services                   0        752 K
+svchost.exe                   5124 Services                   0      1,664 K
+ETDService.exe                5180 Services                   0        616 K
+FNPLicensingService.exe       5188 Services                   0      2,280 K
+ibtsiva.exe                   5196 Services                   0      2,012 K
+QQProtect.exe                 5204 Services                   0     16,488 K
+OneApp.IGCC.WinService.ex     5212 Services                   0      6,528 K
+RtkAudUService64.exe          5220 Services                   0      3,160 K
+AlibabaProtect.exe            5228 Services                   0     39,400 K
+AdskLicensingService.exe      5240 Services                   0      4,304 K
+AGSService.exe                5252 Services                   0         暂缺
+nvcontainer.exe               5268 Services                   0     17,664 K
+RstMwService.exe              5276 Services                   0        412 K
+AGMService.exe                5284 Services                   0      1,428 K
+svchost.exe                   5296 Services                   0      1,024 K
+LogiRegistryService.exe       5304 Services                   0         暂缺
+LMS.exe                       5332 Services                   0      1,908 K
+SangforPWEx.exe               5364 Services                   0        664 K
+SangforPromoteService.exe     5372 Services                   0      9,284 K
+esif_uf.exe                   5400 Services                   0        516 K
+secbizsrv.exe                 5412 Services                   0      3,324 K
+SECOMN64.exe                  5424 Services                   0        956 K
+SecoClientPromoteService.     5436 Services                   0        740 K
+sqlwriter.exe                 5448 Services                   0        908 K
+svchost.exe                   5508 Services                   0      2,644 K
+vmware-usbarbitrator64.ex     5640 Services                   0      1,800 K
+vmware-authd.exe              5648 Services                   0      3,244 K
+svchost.exe                   5664 Services                   0      3,280 K
+vmnat.exe                     5700 Services                   0      2,164 K
+svchost.exe                   5708 Services                   0        356 K
+vmnetdhcp.exe                 5716 Services                   0        460 K
+XtuService.exe                5724 Services                   0      6,820 K
+svchost.exe                   5732 Services                   0     13,408 K
+dasHost.exe                   5984 Services                   0         暂缺
+svchost.exe                   6440 Services                   0      1,460 K
+svchost.exe                   7008 Services                   0      4,632 K
+svchost.exe                   6576 Services                   0      3,448 K
+vmware-hostd.exe              7296 Services                   0      4,408 K
+rundll32.exe                  7696 Console                    1        712 K
+ETDCtrl.exe                   5628 Console                    1      2,360 K
+SangforUDProtectEx.exe        7484 Console                    1      3,188 K
+svchost.exe                   5156 Services                   0      4,472 K
+nvcontainer.exe               5592 Console                    1      5,996 K
+sihost.exe                    5096 Console                    1     18,132 K
+nvcontainer.exe               4272 Console                    1     22,868 K
+svchost.exe                   4288 Console                    1     24,092 K
+PresentationFontCache.exe     8228 Services                   0      1,248 K
+svchost.exe                   8348 Console                    1     23,068 K
+MicrosoftEdgeUpdate.exe       8452 Services                   0        304 K
+taskhostw.exe                 8468 Console                    1     11,132 K
+svchost.exe                   8576 Services                   0      9,548 K
+svchost.exe                   8604 Services                   0     14,568 K
+svchost.exe                   8696 Services                   0      5,784 K
+svchost.exe                   8900 Services                   0      1,532 K
+ctfmon.exe                    9132 Console                    1     13,516 K
+igfxEM.exe                    9180 Console                    1     16,224 K
+explorer.exe                  9340 Console                    1    132,776 K
+svchost.exe                   9428 Services                   0      3,836 K
+QQPCTray.exe                  9488 Console                    1     65,500 K
+svchost.exe                   9752 Services                   0      3,776 K
+svchost.exe                   9960 Services                   0      3,460 K
+svchost.exe                   9992 Services                   0      3,916 K
+svchost.exe                  10128 Console                    1     14,908 K
+svchost.exe                  10312 Services                   0      3,908 K
+ChsIME.exe                   10380 Console                    1      1,052 K
+svchost.exe                  10732 Services                   0      9,624 K
+SearchIndexer.exe            11064 Services                   0     30,816 K
+StartMenuExperienceHost.e    11128 Console                    1     18,540 K
+QQPCRealTimeSpeedup.exe       8640 Console                    1     21,868 K
+RuntimeBroker.exe            11364 Console                    1      6,100 K
+SearchApp.exe                11832 Console                    1        120 K
+RuntimeBroker.exe            12092 Console                    1     17,460 K
+svchost.exe                   9580 Services                   0     11,380 K
+YourPhone.exe                12412 Console                    1      8,988 K
+SettingSyncHost.exe          12540 Console                    1      5,508 K
+ECAgent.exe                  12548 Console                    1     18,624 K
+RuntimeBroker.exe            12692 Console                    1     13,920 K
+TextInputHost.exe            13032 Console                    1     13,212 K
+nvsphelper64.exe             12116 Console                    1      2,096 K
+NVIDIA Share.exe             13584 Console                    1     19,056 K
+ShellExperienceHost.exe      14216 Console                    1     32,864 K
+RuntimeBroker.exe            13468 Console                    1     19,376 K
+svchost.exe                  13884 Services                   0      3,824 K
+NVIDIA Share.exe             14372 Console                    1      5,164 K
+NVIDIA Web Helper.exe        14684 Console                    1     18,196 K
+svchost.exe                  14768 Services                   0      4,752 K
+conhost.exe                  14808 Console                    1        472 K
+NVIDIA Share.exe              7204 Console                    1     24,144 K
+LCore.exe                    15496 Console                    1     30,328 K
+laclient.exe                 15868 Console                    1      3,200 K
+conhost.exe                  15892 Console                    1        432 K
+RuntimeBroker.exe            16084 Console                    1      6,488 K
+aliwssv.exe                  10960 Console                    1        292 K
+conhost.exe                  10968 Console                    1         84 K
+logitechg_discord.exe        12036 Console                    1      3,288 K
+GenuineService.exe           16288 Console                    1      1,120 K
+HPSystemEventUtilityHost.     3184 Console                    1     30,412 K
+wlanext.exe                  13384 Services                   0      1,672 K
+conhost.exe                   8920 Services                   0         92 K
+SystemSettings.exe            5808 Console                    1        132 K
+ApplicationFrameHost.exe      9000 Console                    1      7,344 K
+SDXHelperBgt.exe              1980 Console                    1         12 K
+RuntimeBroker.exe             9520 Console                    1      8,464 K
+svchost.exe                  14848 Services                   0     10,424 K
+svchost.exe                    988 Console                    1      8,224 K
+HPCommRecovery.exe            2868 Services                   0     11,112 K
+SgrmBroker.exe                5504 Services                   0      5,268 K
+svchost.exe                   9152 Services                   0      5,160 K
+svchost.exe                   4768 Services                   0      4,152 K
+svchost.exe                  15760 Services                   0      4,332 K
+SecurityHealthService.exe     5316 Services                   0      7,876 K
+svchost.exe                   5108 Services                   0      1,872 K
+SearchApp.exe                14980 Console                    1     63,336 K
+svchost.exe                   2920 Services                   0      4,992 K
+svchost.exe                   9796 Services                   0      1,620 K
+SogouCloud.exe               12328 Console                    1     17,560 K
+mcafee-security.exe           2972 Console                    1      7,808 K
+RuntimeBroker.exe             4672 Console                    1      5,172 K
+mcafee-security-ft.exe       12716 Console                    1      2,344 K
+360bdoctor.exe                4784 Console                    1      3,504 K
+SogouImeBroker.exe            4556 Console                    1      2,144 K
+dllhost.exe                  13040 Console                    1      3,948 K
+LockApp.exe                  12680 Console                    1     23,576 K
+RuntimeBroker.exe             2356 Console                    1     23,000 K
+svchost.exe                  11652 Services                   0      1,284 K
+msedge.exe                     684 Console                    1    186,436 K
+msedge.exe                    8672 Console                    1      1,988 K
+msedge.exe                    1740 Console                    1    286,152 K
+msedge.exe                   10828 Console                    1     32,976 K
+msedge.exe                   16892 Console                    1      8,124 K
+msedge.exe                    6908 Console                    1      4,612 K
+msedge.exe                   15060 Console                    1      4,564 K
+msedge.exe                    6408 Console                    1      6,688 K
+msedge.exe                   16068 Console                    1     10,132 K
+Microsoft.Photos.exe          1332 Console                    1        140 K
+RuntimeBroker.exe            14284 Console                    1     18,480 K
+explorer.exe                  3372 Console                    1     38,648 K
+msedge.exe                    6968 Console                    1     67,632 K
+msedge.exe                   12152 Console                    1      6,340 K
+msedge.exe                   15480 Console                    1     59,408 K
+msedge.exe                    9460 Console                    1     32,572 K
+msedge.exe                   14384 Console                    1      4,292 K
+msedge.exe                    3660 Console                    1      4,220 K
+svchost.exe                  12556 Services                   0      7,160 K
+msedge.exe                   14324 Console                    1     56,436 K
+svchost.exe                  15284 Services                   0     10,196 K
+svchost.exe                  17708 Services                   0      5,560 K
+svchost.exe                  18552 Services                   0      5,892 K
+svchost.exe                  19132 Services                   0      7,060 K
+QQ.exe                       15560 Console                    1    253,668 K
+TXPlatform.exe               17180 Console                    1      3,888 K
+QQExternal.exe               16988 Console                    1     55,144 K
+msedge.exe                     668 Console                    1    106,140 K
+msedge.exe                    6244 Console                    1     92,920 K
+QQPCLeakScan.exe             19692 Console                    1     28,160 K
+explorer.exe                 19680 Console                    1     75,332 K
+msedge.exe                   20268 Console                    1     52,696 K
+chrome.exe                   19096 Console                    1    113,416 K
+chrome.exe                   20396 Console                    1      7,544 K
+chrome.exe                   18176 Console                    1    119,864 K
+chrome.exe                    3648 Console                    1     32,852 K
+chrome.exe                   12032 Console                    1     16,652 K
+chrome.exe                    8932 Console                    1     20,120 K
+chrome.exe                   10728 Console                    1     25,976 K
+chrome.exe                   17904 Console                    1    103,432 K
+GitHubDesktop.exe            12736 Console                    1     97,980 K
+GitHubDesktop.exe             3304 Console                    1     97,764 K
+GitHubDesktop.exe             5164 Console                    1     37,896 K
+GitHubDesktop.exe            16172 Console                    1     89,544 K
+WmiPrvSE.exe                 10604 Services                   0     15,152 K
+cmd.exe                      15736 Console                    1      4,836 K
+conhost.exe                  18908 Console                    1     40,020 K
+notepad.exe                  15016 Console                    1     38,276 K
+SearchProtocolHost.exe       20016 Console                    1      8,336 K
+SearchFilterHost.exe          3324 Services                   0      7,628 K
+msedge.exe                    9444 Console                    1     92,764 K
+audiodg.exe                   2016 Services                   0     17,356 K
+msedge.exe                    1444 Console                    1    134,392 K
+svchost.exe                   7520 Services                   0      7,772 K
+RuntimeBroker.exe            12700 Console                    1     11,768 K
+msedge.exe                    4704 Console                    1     34,468 K
+tasklist.exe                 18580 Console                    1      8,652 K
